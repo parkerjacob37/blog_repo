@@ -1,4 +1,4 @@
-  # comment out of allignment, with typo
+# comment out of alignment, with typo
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
